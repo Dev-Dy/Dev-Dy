@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development and Mobile Application development
 - 🌱 I’m currently learning React and React-Native
 - 💞️ I’m looking to collaborate on Web Application and Mobile Application projects.
-- 📫 Reach me at dheerajkryadav08@gmail.com/https://wa.me/8932878433
+- 📫 Reach me at dheerajkryadav08@gmail.com/ https://wa.me/8932878433
 
 <!---
 Dev-Dy/Dev-Dy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
