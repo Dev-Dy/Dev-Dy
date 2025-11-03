@@ -1,73 +1,95 @@
 # 👋 Hi, I'm @Dev-Dy
 
-### 🦀 Blockchain Engineer | Rust Developer | Systems Architect
+### 🦀 Blockchain Engineer | Rust Systems Developer | Protocol Designer
 
 ---
 
 ### 🌟 About Me
-- 💡 Passionate about **blockchain engineering**, **cryptography**, and **distributed systems**  
-- 🧠 Focused on **Rust**, **Web3 architecture**, and **consensus algorithms**  
-- 🔍 Interested in building **secure**, **scalable**, and **high-performance decentralized systems**  
-- 🌱 Continuously learning **advanced Rust**, **zero-knowledge proofs**, and **protocol design**  
-- 💬 Open to collaborations on **blockchain projects**, **cryptographic research**, and **DeFi innovations**
+- 💡 Passionate about **blockchain systems**, **consensus protocols**, and **cryptographic security**
+- 🧠 Specialized in **Rust**, **distributed architecture**, and **low-level performance engineering**
+- 🔍 Exploring **zero-knowledge proofs**, **Layer-1 protocols**, and **secure consensus mechanisms**
+- ⚙️ Experienced with **Substrate**, **Solana**, and **Move-based** ecosystems
+- 💬 Open to collaboration on **research-driven**, **protocol-level**, or **DeFi infrastructure** projects
 
 ---
 
-### ⚙️ Technical Focus
+### ⚙️ Core Expertise
 
-**Core Areas**  
-🧱 Blockchain Architecture • 🔄 Consensus Mechanisms • 🔐 Cryptography • ⚡ Performance Engineering  
+**Domains:**  
+🔗 Blockchain Architecture • 🔄 Consensus Algorithms • 🧮 Cryptography • ⚡ Performance Optimization  
 
-**Languages & Frameworks**  
-🦀 Rust • 🐍 Python • 💻 Node.js (for tooling) • 🧩 WASM  
+**Languages:**  
+🦀 Rust • 🧩 Move • 🐍 Python • 💻 Node.js (for tooling)  
 
-**Blockchain Tools & Frameworks**  
-⛓️ Substrate • ⚡ Solana • 🧮 Move • 🔑 ink! • 💸 Ethereum (Solidity basics)  
+**Frameworks & Tools:**  
+⛓️ Substrate • ⚡ Solana • 🧠 Actix • 💽 RocksDB • 🧰 Tokio • 🧬 Serde  
 
-**Other Interests**  
-🧠 Distributed Databases • 🧩 Systems Design • 🧬 Research & Innovation in Web3  
+**Interests:**  
+🧠 Distributed Systems • 🧩 Formal Verification • 🪶 Compiler Design for Smart Contracts  
 
 ---
 
 ### 🧩 Featured Work
 
-#### 🔗 [Mini Blockchain in Rust](https://github.com/Dev-Dy/mini_chain)
-A minimalist blockchain prototype built entirely in **Rust**, featuring:
-- SHA-256 cryptographic hashing  
-- Dynamic block addition via CLI  
-- Genesis block creation  
-- Full chain validation  
-- Ready for Proof-of-Work integration  
+#### 🦀 [NebulaChain – A Minimal Proof-of-Work Blockchain in Rust](https://github.com/Dev-Dy/nebula_chain)
+> *A performant, educational Layer-1 blockchain prototype built from scratch in Rust.*
 
-#### ⚙️ [Consensus Playground (coming soon)]()
-An experimental Rust-based simulator for exploring **PBFT**, **HotStuff**, and **Nakamoto consensus** mechanisms.
+- Implements **SHA-256 hashing**, **Proof-of-Work**, and **block validation**
+- Features **adjustable mining difficulty** and **chain integrity verification**
+- Built with **async Rust** for performance and scalability
+- Clean modular architecture suitable for research and teaching
+- 🧱 **Next milestone:** integrate a lightweight P2P gossip protocol  
 
 ---
 
-### 📘 Current Focus
-- 🧮 Implementing Proof-of-Work and PBFT consensus in Rust  
-- 🔐 Integrating **Merkle trees** and transaction validation  
-- 📡 Exploring **peer-to-peer networking** for decentralized communication  
+#### 🔄 [Atlas Consensus Simulator](https://github.com/Dev-Dy/atlas-consensus)
+> *Experimental simulation framework for testing Byzantine Fault Tolerant (BFT) consensus algorithms.*
+
+- Implements **PBFT**, **HotStuff**, and **Tendermint-inspired** consensus in Rust  
+- Designed for benchmarking throughput, latency, and fault resilience  
+- Visual logging dashboard (via WebSocket) to observe leader elections  
+- Research-grade tool for protocol experimentation  
+- 🧪 Built for learning and testing real-world consensus trade-offs  
 
 ---
 
-### 🧭 Goals
-- 🎯 Master **low-level Rust systems development**  
-- 🚀 Contribute to **open-source blockchain frameworks** (e.g., Substrate, Solana)  
-- 💼 Build production-ready **Layer 1 prototypes** and **DeFi protocols**  
+#### 🧮 [Zyra VM – Smart Contract Runtime (WASM-based)](https://github.com/Dev-Dy/zyra-vm)
+> *A lightweight virtual machine for executing smart contracts safely and efficiently.*
+
+- Executes WebAssembly-based smart contracts in a sandboxed runtime  
+- Features **deterministic execution**, **gas metering**, and **state isolation**  
+- Integrates with Substrate-style runtime APIs  
+- Modular Rust design — ready for integration into other blockchains  
+
+---
+
+#### 🔐 [Cryptx – Modular Cryptography Toolkit](https://github.com/Dev-Dy/cryptx)
+> *Collection of reusable, security-focused Rust modules for blockchain applications.*
+
+- Includes **Merkle tree**, **keypair generation**, and **digital signature** primitives  
+- Built using `ring` and `sha2` crates for reliability and performance  
+- Designed for use in blockchain validators, wallets, and DeFi apps  
+
+---
+
+### 🧭 Current Research Focus
+- 🧩 Verifiable Computation and Zero-Knowledge Proof Systems  
+- 🧮 Advanced Consensus: **HotStuff**, **Narwhal-Bullshark**, and **DAG-based BFT**  
+- 🧱 Rust-based **Layer-1 modular design** and scalability benchmarking  
+- 🔐 Quantum-resilient signature schemes  
+
+---
+
+### 🧭 Vision
+> Build **decentralized infrastructure** that’s fast, verifiable, and trustless.  
+> Empower developers to create with **safety, performance, and elegance.**
 
 ---
 
 ### 📫 Connect With Me
 - 🌐 GitHub: [@Dev-Dy](https://github.com/Dev-Dy)  
-- 💼 LinkedIn: [linkedin.com/in/dev-dy](https://linkedin.com/in/dev-dy) *(optional — add if you have one)*  
-- ✉️ Email: dev.dy@example.com *(replace with your real email)*  
-
----
-
-### ⚡ Fun Fact
-> “The best systems are not just coded — they’re **engineered** with purpose, safety, and elegance.”  
-> — Dev-Dy
+- 💼 LinkedIn: [linkedin.com/in/dev-dy](https://linkedin.com/in/dev-dy) *(optional)*  
+- ✉️ Email: dev.dy@example.com *(replace with your actual email)*  
 
 ---
 
@@ -77,4 +99,4 @@ An experimental Rust-based simulator for exploring **PBFT**, **HotStuff**, and *
 
 ---
 
-⭐️ *From [Dev-Dy](https://github.com/Dev-Dy) — crafting secure, performant, and elegant blockchain systems.*
+⭐️ *From [Dev-Dy](https://github.com/Dev-Dy) — Engineering the next generation of decentralized systems.*
