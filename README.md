@@ -88,8 +88,8 @@
 
 ### 📫 Connect With Me
 - 🌐 GitHub: [@Dev-Dy](https://github.com/Dev-Dy)  
-- 💼 LinkedIn: [linkedin.com/in/dev-dy](https://linkedin.com/in/dev-dy) *(optional)*  
-- ✉️ Email: dev.dy@example.com *(replace with your actual email)*  
+- 💼 LinkedIn: [https://www.linkedin.com/in/dheeraj-yadav-113a19166](https://linkedin.com/in/dev-dy) 
+- ✉️ Email: dheerajkryadav08@gmail.com
 
 ---
 
