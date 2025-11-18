@@ -31,7 +31,7 @@
 
 ### 🧩 Featured Work
 
-#### 🦀 [NebulaChain – A Minimal Proof-of-Work Blockchain in Rust](https://github.com/Dev-Dy/nebula_chain)
+#### 🦀 [NebulaChain – A Minimal Proof-of-Work Blockchain in Rust](https://github.com/Dev-Dy/nebulachain-core)
 > *A performant, educational Layer-1 blockchain prototype built from scratch in Rust.*
 
 - Implements **SHA-256 hashing**, **Proof-of-Work**, and **block validation**
