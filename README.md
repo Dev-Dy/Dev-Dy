@@ -1,102 +1,119 @@
-# 👋 Hi, I'm @Dev-Dy
-
-### 🦀 Blockchain Engineer | Rust Systems Developer | Protocol Designer
-
----
-
-### 🌟 About Me
-- 💡 Passionate about **blockchain systems**, **consensus protocols**, and **cryptographic security**
-- 🧠 Specialized in **Rust**, **distributed architecture**, and **low-level performance engineering**
-- 🔍 Exploring **zero-knowledge proofs**, **Layer-1 protocols**, and **secure consensus mechanisms**
-- ⚙️ Experienced with **Substrate**, **Solana**, and **Move-based** ecosystems
-- 💬 Open to collaboration on **research-driven**, **protocol-level**, or **DeFi infrastructure** projects
+<h1 align="center">👋 Hey, I'm <strong>Dev-Dy</strong></h1>
+<h3 align="center">🦀 Solana Blockchain Engineer | Rust Systems Developer | Full-Stack Web3 Architect</h3>
 
 ---
 
-### ⚙️ Core Expertise
+## 🌟 About Me
 
-**Domains:**  
-🔗 Blockchain Architecture • 🔄 Consensus Algorithms • 🧮 Cryptography • ⚡ Performance Optimization  
+I'm a **Solana-focused blockchain engineer** and **systems-level Rust developer** building high-performance decentralized systems.
 
-**Languages:**  
-🦀 Rust • 🧩 Move • 🐍 Python • 💻 Node.js (for tooling)  
+My work spans:
+- ⚡ **Solana on-chain programs** (Rust / Anchor)
+- 🌐 **Full-stack Web3** with TypeScript, Web3.js, Next.js
+- 🔄 **Blockchain architecture** & distributed systems
+- 🔐 **Applied cryptography & ZK research**
+- 🧩 **WASM runtimes and smart contract safety**
 
-**Frameworks & Tools:**  
-⛓️ Substrate • ⚡ Solana • 🧠 Actix • 💽 RocksDB • 🧰 Tokio • 🧬 Serde  
-
-**Interests:**  
-🧠 Distributed Systems • 🧩 Formal Verification • 🪶 Compiler Design for Smart Contracts  
-
----
-
-### 🧩 Featured Work
-
-#### 🦀 [NebulaChain – A Minimal Proof-of-Work Blockchain in Rust](https://github.com/Dev-Dy/nebulachain-core)
-> *A performant, educational Layer-1 blockchain prototype built from scratch in Rust.*
-
-- Implements **SHA-256 hashing**, **Proof-of-Work**, and **block validation**
-- Features **adjustable mining difficulty** and **chain integrity verification**
-- Built with **async Rust** for performance and scalability
-- Clean modular architecture suitable for research and teaching
-- 🧱 **Next milestone:** integrate a lightweight P2P gossip protocol  
+I love engineering systems that are **fast**, **deterministic**, and **cryptographically secure**.
 
 ---
 
-#### 🔄 [Atlas Consensus Simulator](https://github.com/Dev-Dy/atlas-consensus)
-> *Experimental simulation framework for testing Byzantine Fault Tolerant (BFT) consensus algorithms.*
+## 🧰 Core Expertise
 
-- Implements **PBFT**, **HotStuff**, and **Tendermint-inspired** consensus in Rust  
-- Designed for benchmarking throughput, latency, and fault resilience  
-- Visual logging dashboard (via WebSocket) to observe leader elections  
-- Research-grade tool for protocol experimentation  
-- 🧪 Built for learning and testing real-world consensus trade-offs  
+### 🔗 **Blockchain & Systems**
+- Solana Runtime & SVM Concepts  
+- Parallel Execution (Sealevel)  
+- Consensus Algorithms (PBFT, HotStuff, Tendermint)  
+- DAG-based BFT (Narwhal/Bullshark)  
+- Cryptographic primitives & secure protocol design  
 
----
+### 🦀 **Languages**
+- Rust • TypeScript • Move • Python • Node.js (tooling)
 
-#### 🧮 [Zyra VM – Smart Contract Runtime (WASM-based)](https://github.com/Dev-Dy/zyra-vm)
-> *A lightweight virtual machine for executing smart contracts safely and efficiently.*
-
-- Executes WebAssembly-based smart contracts in a sandboxed runtime  
-- Features **deterministic execution**, **gas metering**, and **state isolation**  
-- Integrates with Substrate-style runtime APIs  
-- Modular Rust design — ready for integration into other blockchains  
+### ⚒️ **Frameworks & Tools**
+- Anchor • Solana Web3.js • Next.js  
+- Actix • Tokio • Serde  
+- RocksDB • WASM • BPF toolchain  
 
 ---
 
-#### 🔐 [Cryptx – Modular Cryptography Toolkit](https://github.com/Dev-Dy/cryptx)
-> *Collection of reusable, security-focused Rust modules for blockchain applications.*
+## 🚀 Featured Projects
 
-- Includes **Merkle tree**, **keypair generation**, and **digital signature** primitives  
-- Built using `ring` and `sha2` crates for reliability and performance  
-- Designed for use in blockchain validators, wallets, and DeFi apps  
-
----
-
-### 🧭 Current Research Focus
-- 🧩 Verifiable Computation and Zero-Knowledge Proof Systems  
-- 🧮 Advanced Consensus: **HotStuff**, **Narwhal-Bullshark**, and **DAG-based BFT**  
-- 🧱 Rust-based **Layer-1 modular design** and scalability benchmarking  
-- 🔐 Quantum-resilient signature schemes  
+### ⚡ **AuroraLabs – Solana DeFi Primitives & Program Suite (Rust)**
+A high-performance set of Solana programs for swaps, vaults, and routing.
+- ⚙️ Optimized for **parallel execution**
+- 🧱 Custom PDA + CPI architecture
+- 🖥 Full-stack reference DApp (Next.js + Web3.js)
 
 ---
 
-### 🧭 Vision
-> Build **decentralized infrastructure** that’s fast, verifiable, and trustless.  
-> Empower developers to create with **safety, performance, and elegance.**
+### 🦀 **NebulaChain – Minimal PoW Blockchain in Rust**  
+A fully custom educational L1 blockchain built from scratch.
+- SHA-256 hashing • Block validation  
+- Adjustable difficulty • Mining logic  
+- Async runtime using Tokio
+
+🔗 Repo: https://github.com/Dev-Dy/nebulachain-core
 
 ---
 
-### 📫 Connect With Me
-- 🌐 GitHub: [@Dev-Dy](https://github.com/Dev-Dy)  
-- 💼 LinkedIn: [@Dev-Dy](https://www.linkedin.com/in/dheeraj-yadav-113a19166) 
-- ✉️ Mail: dheerajkryadav08@gmail.com
+### 🔄 **Atlas Consensus Simulator**  
+Experimental Rust framework for BFT protocol research.
+- PBFT • HotStuff • Tendermint  
+- Benchmarking: latency, throughput, resilience  
+- Live WebSocket dashboard  
+
+🔗 Repo: https://github.com/Dev-Dy/atlas-consensus
 
 ---
 
-### 📊 GitHub Analytics
-![Dev-Dy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Dy&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dy&layout=compact&theme=tokyonight)
+### 🧮 **Zyra VM – WASM Smart Contract Runtime**  
+Minimal deterministic WASM smart contract execution environment.
+- Gas metering  
+- State isolation  
+- Rust, modular design  
+
+🔗 Repo: https://github.com/Dev-Dy/zyra-vm
 
 ---
 
-⭐️ *From [Dev-Dy](https://github.com/Dev-Dy) — Engineering the next generation of decentralized systems.*
+### 🔐 **Cryptx – Modular Cryptography Toolkit (Rust)**  
+Reusable cryptographic primitives for blockchain development.
+- Merkle trees  
+- Digital signatures  
+- Keypair utilities  
+
+🔗 Repo: https://github.com/Dev-Dy/cryptx
+
+---
+
+## 🔬 Current Research Focus
+- Solana Sealevel parallel execution  
+- Zero-knowledge friendly execution systems  
+- Post-quantum signatures  
+- Predictable + gas-efficient runtimes  
+- DAG-based consensus  
+
+---
+
+## 💡 Vision
+> Build decentralized infrastructure that is **fast**, **trustless**, and **engineered with elegance**.
+
+---
+
+## 📫 Connect  
+- 🌐 GitHub: **@Dev-Dy**  
+- 💼 LinkedIn: **@Dev-Dy**  
+- ✉️ Email: **dheerajkryadav08@gmail.com**
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Dy&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dy&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+⭐️ *Building the next generation of Solana-powered decentralized systems.*
