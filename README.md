@@ -143,10 +143,3 @@ I’m interested in opportunities involving:
 * **LinkedIn:** [https://www.linkedin.com/in/dheeraj-yadav-113a19166](https://www.linkedin.com/in/dheeraj-yadav-113a19166)
 * **Portfolio:** [https://dheeraj-yadav.vercel.app](https://dheeraj-yadav.vercel.app)
 * **Email:** [dheerajkryadav8@gmail.com](mailto:dheerajkryadav8@gmail.com)
-
-* Optimize **individual repo READMEs** for the same LLM signal
-* Suggest **exact pin order** for maximum impact
-* Create a **short “AI summary” version** for platforms that scrape GitHub
-* Tune this specifically for **MLabs / Solana DeFi infra teams**
-
-Just tell me.
