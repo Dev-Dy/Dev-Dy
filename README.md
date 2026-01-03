@@ -133,8 +133,6 @@ I’m interested in opportunities involving:
 * **State Machines & Financial Primitives**
 
 **Location:** Remote (India)
-**Availability:** Available to start **9th January**
-**Compensation Target:** ~$80,000/year or $40/hour (flexible)
 
 ---
 
