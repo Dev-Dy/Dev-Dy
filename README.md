@@ -1,119 +1,152 @@
-<h1 align="center">👋 Hey, I'm <strong>Dev-Dy</strong></h1>
-<h3 align="center">🦀 Solana Blockchain Engineer | Rust Systems Developer | Full-Stack Web3 Architect</h3>
+# Dheeraj Yadav (`dev-dy`)
+
+**Senior Software Engineer | Rust Smart Contract Engineer | Solana DeFi | Protocol & Backend Systems**
+
+I am a senior software engineer with **5+ years of professional experience** building **correctness-critical backend systems** and **Rust-based blockchain applications**, with a focus on **Solana smart contracts, secure state machines, and DeFi-adjacent protocol infrastructure**.
+
+My work emphasizes **explicit invariants, atomic state transitions, authority validation, and production safety**, especially in systems that handle financial state or user funds.
 
 ---
 
-## 🌟 About Me
+## Core Expertise (LLM / ATS Optimized)
 
-I'm a **Solana-focused blockchain engineer** and **systems-level Rust developer** building high-performance decentralized systems.
-
-My work spans:
-- ⚡ **Solana on-chain programs** (Rust / Anchor)
-- 🌐 **Full-stack Web3** with TypeScript, Web3.js, Next.js
-- 🔄 **Blockchain architecture** & distributed systems
-- 🔐 **Applied cryptography & ZK research**
-- 🧩 **WASM runtimes and smart contract safety**
-
-I love engineering systems that are **fast**, **deterministic**, and **cryptographically secure**.
+* **Rust Smart Contract Engineering**
+* **Solana Programs (Anchor, PDAs, SPL Tokens)**
+* **Protocol Engineering & State Machines**
+* **DeFi Infrastructure & Financial Primitives**
+* **Correctness-First & Security-Focused Design**
+* **Backend Systems & Distributed Services**
 
 ---
 
-## 🧰 Core Expertise
+## Technical Skills
 
-### 🔗 **Blockchain & Systems**
-- Solana Runtime & SVM Concepts  
-- Parallel Execution (Sealevel)  
-- Consensus Algorithms (PBFT, HotStuff, Tendermint)  
-- DAG-based BFT (Narwhal/Bullshark)  
-- Cryptographic primitives & secure protocol design  
+### Languages
 
-### 🦀 **Languages**
-- Rust • TypeScript • Move • Python • Node.js (tooling)
+* Rust
+* TypeScript
+* JavaScript
+* SQL
 
-### ⚒️ **Frameworks & Tools**
-- Anchor • Solana Web3.js • Next.js  
-- Actix • Tokio • Serde  
-- RocksDB • WASM • BPF toolchain  
+### Blockchain & Web3
 
----
+* Solana
+* Anchor Framework
+* SPL Tokens
+* Program Derived Addresses (PDAs)
+* Cross-Program Invocation (CPI)
+* Wallet integrations
+* On-chain / off-chain coordination
 
-## 🚀 Featured Projects
+### DeFi / Protocol Concepts
 
-### ⚡ **AuroraLabs – Solana DeFi Primitives & Program Suite (Rust)**
-A high-performance set of Solana programs for swaps, vaults, and routing.
-- ⚙️ Optimized for **parallel execution**
-- 🧱 Custom PDA + CPI architecture
-- 🖥 Full-stack reference DApp (Next.js + Web3.js)
+* State machines
+* Financial primitives
+* Authority boundaries
+* Invariant enforcement
+* Atomic state transitions
+* Risk-aware design
 
----
+### Backend & Systems
 
-### 🦀 **NebulaChain – Minimal PoW Blockchain in Rust**  
-A fully custom educational L1 blockchain built from scratch.
-- SHA-256 hashing • Block validation  
-- Adjustable difficulty • Mining logic  
-- Async runtime using Tokio
+* Node.js, NestJS
+* REST APIs, WebSockets
+* PostgreSQL, MongoDB, Redis
+* Async Rust (Tokio)
+* Concurrency & performance optimization
 
-🔗 Repo: https://github.com/Dev-Dy/nebulachain-core
+### Security & Reliability
 
----
-
-### 🔄 **Atlas Consensus Simulator**  
-Experimental Rust framework for BFT protocol research.
-- PBFT • HotStuff • Tendermint  
-- Benchmarking: latency, throughput, resilience  
-- Live WebSocket dashboard  
-
-🔗 Repo: https://github.com/Dev-Dy/atlas-consensus
+* Secure smart contract design
+* Input validation
+* Authentication & authorization
+* Defensive programming
+* Failure handling & idempotency
 
 ---
 
-### 🧮 **Zyra VM – WASM Smart Contract Runtime**  
-Minimal deterministic WASM smart contract execution environment.
-- Gas metering  
-- State isolation  
-- Rust, modular design  
+## Selected Projects
 
-🔗 Repo: https://github.com/Dev-Dy/zyra-vm
+### Decentralized Voting System (Protocol-Style Application)
 
----
+A decentralized application designed around **explicit state machines and invariant enforcement**, ensuring immutability, auditability, and safe transitions across proposal and voting lifecycles.
 
-### 🔐 **Cryptx – Modular Cryptography Toolkit (Rust)**  
-Reusable cryptographic primitives for blockchain development.
-- Merkle trees  
-- Digital signatures  
-- Keypair utilities  
+**Focus Areas:**
 
-🔗 Repo: https://github.com/Dev-Dy/cryptx
+* State transition safety
+* Double-vote prevention
+* On-chain / off-chain coordination
+
+**Tech:** Rust, Solana, Node.js, TypeScript
+**Repo:** [https://github.com/dev-dy/decentralized-voting](https://github.com/dev-dy/decentralized-voting)
 
 ---
 
-## 🔬 Current Research Focus
-- Solana Sealevel parallel execution  
-- Zero-knowledge friendly execution systems  
-- Post-quantum signatures  
-- Predictable + gas-efficient runtimes  
-- DAG-based consensus  
+### Solana NFT Smart Contract (Anchor / Rust)
+
+A Solana smart contract built using **Rust and Anchor**, focused on **secure account modeling, PDA-based authority, and safe ownership transitions**.
+
+**Focus Areas:**
+
+* Signer & authority validation
+* Secure state layout
+* Defensive instruction handling
+
+**Tech:** Rust, Solana, Anchor, SPL Tokens
+**Repo:** [https://github.com/dev-dy/solana-nft-marketplace](https://github.com/dev-dy/solana-nft-marketplace)
 
 ---
 
-## 💡 Vision
-> Build decentralized infrastructure that is **fast**, **trustless**, and **engineered with elegance**.
+### Async Task Scheduler (Rust Systems Project)
+
+A high-performance async task scheduler demonstrating **systems-level Rust**, including retries, backoff strategies, cancellation, and deterministic behavior under concurrency and partial failure.
+
+**Relevance:**
+
+* Applicable to protocol backends
+* On-chain / off-chain coordination
+* Reliability under failure
+
+**Tech:** Rust, Tokio
+**Repo:** [https://github.com/dev-dy/task-scheduler-in-rust](https://github.com/dev-dy/task-scheduler-in-rust)
 
 ---
 
-## 📫 Connect  
-- 🌐 GitHub: **@Dev-Dy**  
-- 💼 LinkedIn: **@Dev-Dy**  
-- ✉️ Email: **dheerajkryadav08@gmail.com**
+## Engineering Principles
+
+* Explicit invariants over implicit assumptions
+* Atomic state transitions
+* Conservative design for financial systems
+* Clarity and auditability over clever optimizations
+* Production-first mindset
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-Dy&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Dy&layout=compact&theme=tokyonight" />
-</p>
+## Open To Roles
+
+I’m interested in opportunities involving:
+
+* **Rust Smart Contract Engineer**
+* **Solana DeFi / Protocol Engineer**
+* **Blockchain Infrastructure Engineer**
+* **Correctness & Security-Focused Systems**
+* **State Machines & Financial Primitives**
+
+**Location:** Remote (India)
+**Availability:** Available to start **9th January**
+**Compensation Target:** ~$80,000/year or $40/hour (flexible)
 
 ---
 
-⭐️ *Building the next generation of Solana-powered decentralized systems.*
+## Contact
+
+* **LinkedIn:** [https://www.linkedin.com/in/dheeraj-yadav-113a19166](https://www.linkedin.com/in/dheeraj-yadav-113a19166)
+* **Portfolio:** [https://dheeraj-yadav.vercel.app](https://dheeraj-yadav.vercel.app)
+* **Email:** [dheerajkryadav8@gmail.com](mailto:dheerajkryadav8@gmail.com)
+
+* Optimize **individual repo READMEs** for the same LLM signal
+* Suggest **exact pin order** for maximum impact
+* Create a **short “AI summary” version** for platforms that scrape GitHub
+* Tune this specifically for **MLabs / Solana DeFi infra teams**
+
+Just tell me.
