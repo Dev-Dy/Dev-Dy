@@ -8,7 +8,7 @@ My work emphasizes **explicit invariants, atomic state transitions, authority va
 
 ---
 
-## Core Expertise (LLM / ATS Optimized)
+## Core Expertise
 
 * **Rust Smart Contract Engineering**
 * **Solana Programs (Anchor, PDAs, SPL Tokens)**
