@@ -1,137 +1,125 @@
 # Dheeraj Yadav (`dev-dy`)
 
-**Senior Backend & Systems Engineer | Rust | AI Infrastructure | Distributed Systems | Blockchain**
+**Rust Backend Engineer | AI Infrastructure Engineer | Distributed Systems | LLM Systems | Solana Blockchain**
 
-I am a senior software engineer with **5+ years of experience** building **high-performance backend systems**, **Rust-based distributed services**, and **production-grade AI infrastructure**.
+Senior software engineer with 5+ years of experience building **high-performance Rust backend systems**, **AI infrastructure (LLMs, RAG, agents)**, and **fault-tolerant distributed systems**.
 
-My work focuses on **low-latency system design, correctness, and reliability**, including **LLM pipelines (RAG, agentic workflows)**, **async systems in Rust**, and **fault-tolerant backend architectures**. I also have strong experience in **Solana-based blockchain systems and protocol design**.
-
----
-
-## Core Expertise
-
-* **Rust Systems Engineering (Tokio, async, concurrency)**
-* **AI Infrastructure (LLMs, RAG, evaluation pipelines)**
-* **Distributed Systems & Backend Architecture**
-* **High-Throughput & Low-Latency System Design**
-* **Fault Tolerance, Idempotency & Reliability**
-* **Blockchain Systems (Solana, Anchor, transaction pipelines)**
+Specialized in **low-latency system design**, **async Rust (Tokio)**, and **production-grade AI pipelines**, with additional expertise in **Solana-based blockchain systems and protocol engineering**.
 
 ---
 
-## Technical Skills
+## Core Expertise (Rust Backend, AI Infrastructure, Distributed Systems)
+
+- Rust systems engineering (Tokio, async runtime, concurrency)
+- AI infrastructure (LLMs, agents, RAG pipelines, evaluation systems)
+- Distributed backend architecture (event-driven systems, microservices)
+- High-throughput and low-latency system design
+- Fault tolerance (retries, backoff, idempotency)
+- Blockchain systems (Solana, Anchor, transaction pipelines)
+
+---
+
+## Technical Stack
 
 ### Languages
-* Rust
-* TypeScript / JavaScript
-* Python
-* SQL
+Rust · TypeScript · JavaScript · Python · SQL
 
 ### AI / LLM Systems
-* OpenAI, Claude
-* RAG Pipelines
-* LangChain, LangGraph
-* Vector Databases (pgvector, Pinecone)
-* LLM Evaluation & Validation Systems
+OpenAI · Claude · LangChain · LangGraph  
+RAG pipelines · Agent workflows · Evaluation systems  
+Vector DBs (pgvector, Pinecone)
 
 ### Backend & Systems
-* Rust (Tokio, async runtime)
-* Node.js, NestJS
-* Microservices & Event-driven systems
-* REST APIs, WebSockets
-* Concurrency & performance optimization
+Rust (Tokio async runtime)  
+Node.js · NestJS  
+REST APIs · WebSockets  
+Concurrency · Performance optimization  
 
-### Data & Infrastructure
-* PostgreSQL, Redis, MongoDB
-* Kafka (event streaming)
-* AWS (Lambda, EC2, S3, RDS)
-* Docker, Kubernetes
+### Infrastructure & Data
+PostgreSQL · Redis · MongoDB · Kafka  
+AWS (Lambda, EC2, S3, RDS)  
+Docker · Kubernetes · CI/CD  
 
 ### Blockchain (Specialization)
-* Solana, Anchor Framework
-* Program Derived Addresses (PDAs)
-* SPL Tokens
-* Transaction lifecycle management
-* On-chain / off-chain coordination
-
-### Reliability & Engineering Practices
-* Idempotent workflows
-* Retry strategies & backoff
-* Observability & monitoring
-* Failure handling
-* Production-first design
+Solana · Anchor · PDAs · SPL Tokens  
+Transaction lifecycle management  
+On-chain / off-chain coordination  
 
 ---
 
 ## Selected Projects
 
-### ⚙️ Async Task Scheduler (Rust Systems Project)
-High-performance async task execution system built in Rust, designed for **reliability under concurrency and failure**.
+### AI Debug Agent (Rust LLM Agent for Backend Debugging) ⭐
+AI-powered debugging agent designed to **analyze logs, diagnose issues, and assist in fixing backend/system failures** using structured LLM workflows.
 
-**Highlights:**
-* Retry mechanisms with backoff
-* Cancellation & task orchestration
-* Deterministic behavior under load
+**Highlights**
+- Agent-based reasoning for debugging workflows  
+- Tool-driven architecture (log parsing, error analysis)  
+- Designed for real-world backend and developer productivity use cases  
+- Deterministic execution and reliability focus  
+
+**Tech:** Rust, LLM APIs, async systems  
+**Repo:** https://github.com/Dev-Dy/ai-debug-agent-rust  
+
+---
+
+### Async Task Scheduler (Rust Distributed Systems Project)
+High-performance async task execution system built for **reliable distributed workloads and background processing**.
+
+**Highlights**
+- Retry strategies with exponential backoff  
+- Task orchestration and cancellation  
+- Deterministic behavior under concurrency and partial failure  
 
 **Tech:** Rust, Tokio  
-**Repo:** https://github.com/dev-dy/task-scheduler-in-rust
+**Repo:** https://github.com/dev-dy/task-scheduler-in-rust  
 
 ---
 
-### 🧠 AI-Driven Backend / RAG System *(if applicable, strongly recommended to add)*
-LLM-powered system integrating **retrieval, reasoning, and evaluation pipelines** for production use cases.
+### Decentralized Voting System (State Machine + Protocol Design)
+Blockchain-based system focused on **correctness, invariants, and deterministic state transitions**.
 
-**Highlights:**
-* Retrieval pipelines with vector search
-* Agentic workflows
-* Output validation and consistency checks
-
-**Tech:** OpenAI / Claude, LangGraph, pgvector / Pinecone  
-
----
-
-### ⛓️ Decentralized Voting System (Protocol Design)
-Blockchain-based system emphasizing **state machines, invariants, and secure transitions**.
-
-**Highlights:**
-* Double-vote prevention
-* Deterministic state transitions
-* On-chain/off-chain coordination
+**Highlights**
+- Double-vote prevention via state constraints  
+- Explicit state machine design  
+- On-chain / off-chain coordination  
 
 **Tech:** Rust, Solana, Node.js  
-**Repo:** https://github.com/dev-dy/decentralized-voting
+**Repo:** https://github.com/dev-dy/decentralized-voting  
 
 ---
 
-### 🔐 Solana Smart Contract (Anchor)
-Secure smart contract with focus on **authority validation and safe state handling**.
+### Solana Smart Contract (Anchor, Secure State Design)
+Secure smart contract emphasizing **authority validation and safe account modeling**.
 
-**Highlights:**
-* PDA-based access control
-* Secure account modeling
-* Defensive instruction design
+**Highlights**
+- PDA-based access control  
+- Secure state layout and validation  
+- Defensive instruction design  
 
 **Tech:** Rust, Solana, Anchor  
-**Repo:** https://github.com/dev-dy/solana-nft-marketplace
+**Repo:** https://github.com/dev-dy/solana-nft-marketplace  
 
 ---
 
 ## Engineering Principles
 
-* Systems over scripts — design for scale and failure
-* Explicit invariants over implicit assumptions
-* Performance as a feature, not an afterthought
-* Reliability through idempotency and observability
-* Practical, production-first engineering
+- Explicit invariants over implicit assumptions  
+- Atomic state transitions  
+- Systems design for failure, not ideal conditions  
+- Performance as a core requirement  
+- Reliability through idempotency and observability  
+- Production-first engineering mindset  
 
 ---
 
 ## Open To Roles
 
-* Backend Engineer (Rust / Node.js)
-* AI Infrastructure Engineer
-* Distributed Systems Engineer
-* Blockchain / Protocol Engineer
+- Rust Backend Engineer  
+- AI Infrastructure Engineer  
+- Distributed Systems Engineer  
+- Backend Engineer (Node.js / Rust)  
+- Blockchain / Protocol Engineer  
 
 **Location:** Remote (India)
 
@@ -139,6 +127,12 @@ Secure smart contract with focus on **authority validation and safe state handli
 
 ## Contact
 
-* LinkedIn: https://www.linkedin.com/in/dheeraj-yadav-113a19166  
-* Portfolio: https://dheeraj-yadav.vercel.app  
-* Email: dheerajkryadav8@gmail.com
+LinkedIn: https://www.linkedin.com/in/dheeraj-yadav-113a19166  
+Portfolio: https://dheeraj-yadav.vercel.app  
+Email: dheerajkryadav8@gmail.com  
+
+---
+
+## Keywords (for search indexing)
+
+Rust Backend Engineer, AI Infrastructure Engineer, LLM Engineer, RAG Systems, AI Agents, LangGraph, Distributed Systems, Async Rust, Tokio, Backend Systems, Node.js Backend, Solana Developer, Blockchain Infrastructure
