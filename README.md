@@ -133,6 +133,6 @@ Email: dheerajkryadav8@gmail.com
 
 ---
 
-## Keywords (for search indexing)
+## Keywords
 
 Rust Backend Engineer, AI Infrastructure Engineer, LLM Engineer, RAG Systems, AI Agents, LangGraph, Distributed Systems, Async Rust, Tokio, Backend Systems, Node.js Backend, Solana Developer, Blockchain Infrastructure
